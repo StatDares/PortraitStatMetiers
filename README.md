@@ -26,7 +26,7 @@ Le repertoire a la structure d'une application [{shiny}](https://shiny.rstudio.c
 
 ## Librairies utilisées
 
-Cette application a été réalisée avec le logiciel R (https://cran.r-project.org/) et les packages R suivant :
+Cette application a été réalisée avec le logiciel [R](https://cran.r-project.org/) et les packages R suivant :
 
 * [{shiny}](https://shiny.rstudio.com/) : Web Application Framework for R
 * [{data.table}](https://github.com/Rdatatable/data.table) : Extension of `data.frame`
