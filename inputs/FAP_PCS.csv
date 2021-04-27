@@ -1,0 +1,487 @@
+Fap;PCS;intitule_PCS
+A0Z00;111a;Agriculteurs sur petite exploitation de céréales-grandes cultures
+A0Z00;111f;Agriculteurs sur petite exploitation sans orientation dominante
+A0Z00;121a;Agriculteurs sur moyenne exploitation de céréales-grandes cultures
+A0Z00;121f;Agriculteurs sur moyenne exploitation sans orientation dominante
+A0Z00;122a;Entrepreneurs de travaux agricoles à façon, de 0 à 9 salariés
+A0Z00;131a;Agriculteurs sur grande exploitation de céréales-grandes cultures
+A0Z00;131f;Agriculteurs sur grande exploitation sans orientation dominante
+A0Z01;111d;Éleveurs d'herbivores, sur petite exploitation
+A0Z01;111e;Éleveurs de granivores et éleveurs mixtes, sur petite exploitation
+A0Z01;121d;Éleveurs d'herbivores sur moyenne exploitation
+A0Z01;121e;Éleveurs de granivores et éleveurs mixtes, sur moyenne exploitation
+A0Z01;131d;Éleveurs d'herbivores, sur grande exploitation
+A0Z01;131e;Éleveurs de granivores et éleveurs mixtes, sur grande exploitation
+A0Z02;122b;Exploitants forestiers indépendants, de 0 à 9 salariés
+A0Z40;691e;Ouvriers agricoles sans spécialisation particulière
+A0Z41;691b;Ouvriers de l'élevage
+A0Z42;533b;Agents techniques forestiers, gardes des espaces naturels
+A0Z42;691f;Ouvriers de l'exploitation forestière ou de la sylviculture
+A0Z43;691a;Conducteurs d'engin agricole ou forestier
+A1Z00;111b;Maraîchers, horticulteurs sur petite exploitation
+A1Z00;121b;Maraîchers, horticulteurs sur moyenne exploitation
+A1Z00;131b;Maraîchers, horticulteurs, sur grande exploitation
+A1Z01;111c;Viticulteurs, arboriculteurs fruitiers, sur petite exploitation
+A1Z01;121c;Viticulteurs, arboriculteurs fruitiers, sur moyenne exploitation
+A1Z01;131c;Viticulteurs, arboriculteurs fruitiers, sur grande exploitation
+A1Z40;691c;Ouvriers du maraîchage ou de l'horticulture
+A1Z41;631a;Jardiniers
+A1Z42;691d;Ouvriers de la viticulture ou de l'arboriculture fruitière
+A2Z70;471a;Techniciens d'étude et de conseil en agriculture, eaux et forêt
+A2Z70;471b;Techniciens d'exploitation et de contrôle de la production en agriculture, eaux et forêt
+A2Z70;480a;Contremaîtres et agents d'encadrement (non cadres) en agriculture, sylviculture
+A2Z90;381a;Ingénieurs et cadres d'étude et d'exploitation de l'agriculture, la pêche, les eaux et forêts
+A3Z00;122c;Patrons pêcheurs et aquaculteurs, de 0 à 9 salariés
+A3Z40;692a;Marins-pêcheurs et ouvriers de l'aquaculture
+A3Z41;656a;Matelots de la marine marchande, capitaines et matelots timoniers de la navigation fluviale (salariés)
+A3Z90;389c;Officiers et cadres navigants techniques de la marine marchande
+A3Z90;480b;Maîtres d'équipage de la marine marchande et de la pêche
+B0Z20;671b;Ouvriers non qualifiés des travaux publics, du travail du béton et de l'extraction, hors État et collectivités locales
+B0Z20;671a;Ouvriers non qualifiés des travaux publics de l'État et des collectivités locales
+B0Z21;681a;Ouvriers non qualifiés du gros oeuvre du bâtiment
+B1Z40;211h;Artisans en terrassement, travaux publics
+B1Z40;621a;Chefs d'équipe du gros oeuvre et des travaux publics
+B1Z40;621b;Ouvriers qualifiés du travail du béton
+B1Z40;621d;Ouvriers des travaux publics en installations électriques et de télécommunications
+B1Z40;621e;Autres ouvriers qualifiés des travaux publics
+B1Z40;621f;Ouvriers qualifiés des travaux publics (salariés de l'État et des collectivités locales)
+B1Z40;621g;Mineurs de fond qualifiés et autres ouvriers qualifiés des industries d'extraction (carrières, pétrole, gaz...)
+B2Z40;211a;Artisans maçons
+B2Z40;632a;Maçons qualifiés
+B2Z41;214d;Artisans de fabrication en matériaux de construction (hors artisanat d'art)
+B2Z41;632b;Ouvriers qualifiés du travail de la pierre
+B2Z42;624d;Monteurs qualifiés en structures métalliques
+B2Z43;632c;Charpentiers en bois qualifiés
+B2Z44;211c;Artisans couvreurs
+B2Z44;632e;Couvreurs qualifiés
+B3Z20;681b;Ouvriers non qualifiés du second oeuvre du bâtiment
+B4Z41;211d;Artisans plombiers, chauffagistes
+B4Z41;632f;Plombiers et chauffagistes qualifiés
+B4Z42;211b;Artisans menuisiers du bâtiment, charpentiers en bois
+B4Z42;632d;Menuisiers qualifiés du bâtiment
+B4Z42;632j;Monteurs qualifiés en agencement, isolation
+B4Z43;211e;Artisans électriciens du bâtiment
+B4Z43;633a;Électriciens qualifiés de type artisanal (y.c. bâtiment)
+B4Z44;211f;Artisans de la peinture et des finitions du bâtiment
+B4Z44;632g;Peintres et ouvriers qualifiés de pose de revêtements sur supports verticaux
+B4Z44;632h;Soliers moquetteurs et ouvriers qualifiés de pose de revêtements souples sur supports horizontaux
+B5Z40;621c;Conducteurs qualifiés d'engins de chantiers du bâtiment et des travaux publics
+B5Z40;651a;Conducteurs d'engin lourd de levage
+B6Z70;472b;Géomètres, topographes
+B6Z71;211j;Entrepreneurs en parcs et jardins, paysagistes
+B6Z71;472d;Techniciens des travaux publics de l'État et des collectivités locales
+B6Z71;472c;Métreurs et techniciens divers du bâtiment et des travaux publics
+B6Z72;472a;Dessinateurs en bâtiment, travaux publics
+B6Z73;481a;Conducteurs de travaux (non cadres)
+B6Z73;481b;Chefs de chantier (non cadres)
+B7Z90;382b;Architectes salariés
+B7Z90;312f;Architectes libéraux
+B7Z91;382a;Ingénieurs et cadres d'étude du bâtiment et des travaux publics
+B7Z91;382c;Ingénieurs, cadres de chantier et conducteurs de travaux (cadres) du bâtiment et des travaux publics
+C0Z20;672a;Ouvriers non qualifiés de l'électricité et de l'électronique
+C1Z40;622b;Câbleurs qualifiés, bobiniers qualifiés
+C1Z40;622a;Opérateurs qualifiés sur machines automatiques en production électrique ou électronique
+C1Z40;622g;Plateformistes, contrôleurs qualifiés de matériel électrique ou électronique
+C2Z70;473b;Techniciens de recherche-développement et des méthodes de fabrication en électricité, électromécanique et électronique
+C2Z70;473c;Techniciens de fabrication et de contrôle-qualité en électricité, électromécanique et électronique
+C2Z71;473a;Dessinateurs en électricité, électromécanique et électronique***
+C2Z80;482a;Agents de maîtrise en fabrication de matériel électrique, électronique
+D0Z20;673a;Ouvriers de production non qualifiés travaillant par enlèvement de métal
+D0Z20;673b;Ouvriers de production non qualifiés travaillant par formage de métal
+D1Z40;628c;Régleurs qualifiés d'équipements de fabrication (travail des métaux, mécanique)
+D1Z40;628d;Régleurs qualifiés d'équipements de fabrication (hors travail des métaux et mécanique)
+D1Z41;623f;Opérateurs qualifiés d'usinage des métaux travaillant à l'unité ou en petite série, moulistes qualifiés
+D1Z41;623g;Opérateurs qualifiés d'usinage des métaux sur autres machines (sauf moulistes)
+D2Z40;211g;Artisans serruriers, métalliers
+D2Z40;212b;Artisans chaudronniers
+D2Z40;623a;Chaudronniers-tôliers industriels, opérateurs qualifiés du travail en forge, conducteurs qualifiés d'équipement de formage, traceurs qualifiés
+D2Z40;634b;Métalliers, serruriers qualifiés
+D2Z41;623b;Tuyauteurs industriels qualifiés
+D2Z42;623c;Soudeurs qualifiés sur métaux
+D3Z20;673c;Ouvriers non qualifiés de montage, contrôle en mécanique et travail des métaux *
+D3Z20;682a;Métalliers, serruriers, réparateurs en mécanique non qualifiés **
+D4Z40;624a;Monteurs qualifiés d'ensembles mécaniques
+D4Z40;624g;Autres mécaniciens ou ajusteurs qualifiés (ou spécialité non reconnue)
+D4Z40;624e;Ouvriers qualifiés de contrôle et d'essais en mécanique
+D4Z41;624f;Ouvriers qualifiés des traitements thermiques et de surface sur métaux
+D6Z70;474b;Techniciens de recherche-développement et des méthodes de fabrication en construction mécanique et travail des métaux
+D6Z70;474c;Techniciens de fabrication et de contrôle-qualité en construction mécanique et travail des métaux
+D6Z71;474a;Dessinateurs en construction mécanique et travail des métaux ***
+D6Z80;212c;Artisans en mécanique générale, fabrication et travail des métaux (hors horlogerie et matériel de précision)
+D6Z80;212d;Artisans divers de fabrication de machines
+D6Z80;483a;Agents de maîtrise en construction mécanique, travail des métaux
+E0Z20;674a;Ouvriers de production non qualifiés : chimie, pharmacie, plasturgie
+E0Z21;674b;Ouvriers de production non qualifiés de la transformation des viandes
+E0Z21;674c;Autres ouvriers de production non qualifiés : industrie agro-alimentaire
+E0Z22;674d;Ouvriers de production non qualifiés : métallurgie, production verrière, céramique, matériaux de construction
+E0Z23;674e;Ouvriers de production non qualifiés : industrie lourde du bois, fabrication des papiers et cartons
+E0Z24;676e;Ouvriers non qualifiés divers de type industriel
+E1Z40;625a;Pilotes d'installation lourde des industries de transformation : agroalimentaire, chimie, plasturgie, énergie
+E1Z40;626a;Pilotes d'installation lourde des industries de transformation : métallurgie, production verrière, matériaux de construction
+E1Z41;625c;Autres opérateurs et ouvriers qualifiés de la chimie (y.c. pharmacie) et de la plasturgie
+E1Z42;625e;Autres opérateurs et ouvriers qualifiés de l'industrie agricole et alimentaire (hors transformation des viandes)
+E1Z43;626b;Autres opérateurs et ouvriers qualifiés : métallurgie, production verrière, matériaux de construction
+E1Z43;625h;Ouvriers qualifiés des autres industries (eau, gaz, énergie, chauffage)
+E1Z43;637a;Modeleurs (sauf modeleurs de métal), mouleurs-noyauteurs à la main, ouvriers qualifiés du travail du verre ou de la céramique à la main
+E1Z44;626c;Opérateurs et ouvriers qualifiés des industries lourdes du bois et de la fabrication du papier-carton
+E1Z46;479a;Techniciens des laboratoires de recherche publique ou de l'enseignement
+E1Z46;625b;Ouvriers qualifiés et agents qualifiés de laboratoire : agroalimentaire, chimie, biologie, pharmacie
+E1Z46;628f;Agents qualifiés de laboratoire (sauf chimie, santé)
+E1Z47;628g;Ouvriers qualifiés divers de type industriel
+E2Z70;475a;Techniciens de recherche-développement et des méthodes de production des industries de transformation
+E2Z70;475b;Techniciens de production et de contrôle-qualité des industries de transformation
+E2Z70;485a;Agents de maîtrise et techniciens en production et distribution d'énergie, eau, chauffage
+E2Z80;484a;Agents de maîtrise en fabrication : agroalimentaire, chimie, plasturgie, pharmacie.
+E2Z80;484b;Agents de maîtrise en fabrication : métallurgie, matériaux lourds et autres industries de transformation
+F0Z20;675a;Ouvriers de production non qualifiés du textile et de la confection, de la tannerie-mégisserie et du travail du cuir
+F1Z40;627a;Opérateurs qualifiés du textile et de la mégisserie
+F1Z40;627b;Ouvriers qualifiés de la coupe des vêtements et de l'habillement, autres opérateurs de confection qualifiés
+F1Z40;627c;Ouvriers qualifiés du travail industriel du cuir
+F1Z41;213a;Artisans de l'habillement, du textile et du cuir
+F1Z41;635a;Tailleurs et couturières qualifiés, ouvriers qualifiés du travail des étoffes (sauf fabrication de vêtements), ouvriers qualifiés de type artisanal du travail du cuir
+F2Z20;675b;Ouvriers de production non qualifiés du travail du bois et de l'ameublement
+F3Z40;214a;Artisans de l'ameublement
+F3Z40;214b;Artisans du travail mécanique du bois
+F3Z41;627d;Ouvriers qualifiés de scierie, de la menuiserie industrielle et de l'ameublement
+F4Z20;675c;Ouvriers de production non qualifiés de l'imprimerie, presse, édition
+F4Z41;214c;Artisans du papier, de l'imprimerie et de la reproduction
+F4Z41;627e;Ouvriers de la photogravure et des laboratoires photographiques et cinématographiques
+F4Z41;627f;Ouvriers de la composition et de l'impression, ouvriers qualifiés de la brochure, de la reliure et du façonnage du papier-carton
+F5Z70;476a;Assistants techniques, techniciens de l'imprimerie et de l'édition
+F5Z70;476b;Techniciens de l'industrie des matériaux souples, de l'ameublement et du bois
+F5Z70;485b;Agents de maîtrise en fabrication des autres industries (imprimerie, matériaux souples, ameublement et bois)
+G0A40;628a;Mécaniciens qualifiés de maintenance, entretien : équipements industriels
+G0A40;634d;Mécaniciens qualifiés de maintenance, entretien : équipements non industriels
+G0A41;628b;Électromécaniciens, électriciens qualifiés d'entretien : équipements industriels
+G0A41;633d;Électriciens, électroniciens qualifiés en maintenance, entretien : équipements non industriels
+G0A42;216c;Artisans réparateurs divers
+G0A42;633b;Dépanneurs qualifiés en radiotélévision, électroménager, matériel électronique (salariés)
+G0A43;632k;Ouvriers qualifiés d'entretien général des bâtiments
+G0B40;216b;Artisans tôliers-carrossiers d'automobiles
+G0B40;634a;Carrossiers d'automobiles qualifiés
+G0B41;212a;Artisans mécaniciens en machines agricoles
+G0B41;216a;Artisans mécaniciens réparateurs d'automobiles
+G0B41;633c;Électriciens, électroniciens qualifiés en maintenance entretien, réparation : automobile
+G0B41;634c;Mécaniciens qualifiés en maintenance, entretien, réparation : automobile
+G1Z70;477b;Techniciens d'installation et de maintenance des équipements industriels (électriques, électromécaniques, mécaniques, hors informatique)
+G1Z70;477c;Techniciens d'installation et de maintenance des équipements non industriels (hors informatique et télécommunications)
+G1Z70;477d;Techniciens de l'environnement et du traitement des pollutions
+G1Z70;486a;Agents de maîtrise en maintenance, installation en électricité, électromécanique et électronique
+G1Z70;486d;Agents de maîtrise en maintenance, installation en mécanique
+G1Z71;479b;Experts salariés ou indépendants de niveau technicien, techniciens divers*
+G1Z80;486e;Agents de maîtrise en entretien général, installation, travaux neufs (hors mécanique, électromécanique, électronique)
+H0Z90;380a;Directeurs techniques des grandes entreprises
+H0Z90;383b;Ingénieurs et cadres de fabrication en matériel électrique, électronique
+H0Z90;384b;Ingénieurs et cadres de fabrication en mécanique et travail des métaux
+H0Z90;385b;Ingénieurs et cadres de fabrication des industries de transformation (agroalimentaire, chimie, métallurgie, matériaux lourds)
+H0Z90;386d;Ingénieurs et cadres de la production et de la distribution d'énergie, eau
+H0Z90;386e;Ingénieurs et cadres de fabrication des autres industries (imprimerie, matériaux souples, ameublement et bois)
+H0Z91;387e;Ingénieurs et cadres de la maintenance, de l'entretien et des travaux neufs
+H0Z91;387f;Ingénieurs et cadres techniques de l'environnement
+H0Z92;387c;Ingénieurs et cadres des méthodes de production
+H0Z92;387d;Ingénieurs et cadres du contrôle-qualité
+J0Z20;676a;Manutentionnaires non qualifiés
+J0Z20;676b;Déménageurs (hors chauffeurs-déménageurs), non qualifiés
+J0Z20;676c;Ouvriers du tri, de l'emballage, de l'expédition, non qualifiés
+J0Z20;676d;Agents non qualifiés des services d'exploitation des transports
+J1Z40;652a;Ouvriers qualifiés de la manutention, conducteurs de chariots élévateurs, caristes
+J1Z40;652b;Dockers
+J1Z40;653a;Magasiniers qualifiés
+J1Z80;487a;Responsables d'entrepôt, de magasinage
+J1Z80;487b;Responsables du tri, de l'emballage, de l'expédition et autres responsables de la manutention
+J3Z40;217a;Conducteurs de taxis, ambulanciers et autres artisans du transport, de 0 à 9 salariés
+J3Z40;526e;Ambulanciers salariés (du secteur public ou du secteur privé)
+J3Z40;642a;Conducteurs de taxi (salariés)
+J3Z40;642b;Conducteurs de voiture particulière (salariés)
+J3Z41;641b;Conducteurs de véhicule routier de transport en commun (salariés)
+J3Z42;643a;Conducteurs livreurs, coursiers (salariés)
+J3Z42;644a;Conducteurs de véhicule de ramassage des ordures ménagères
+J3Z43;217b;Artisans déménageurs, de 0 à 9 salariés
+J3Z43;218a;Transporteurs indépendants routiers et fluviaux, de 0 à 9 salariés
+J3Z43;641a;Conducteurs routiers et grands routiers (salariés)
+J3Z44;654a;Conducteurs qualifiés d'engins de transport guidés
+J3Z44;651b;Conducteurs d'engin lourd de manœuvre
+J4Z40;655a;Autres agents et ouvriers qualifiés (sédentaires) des services d'exploitation des transports
+J4Z60;546a;Contrôleurs des transports (personnels roulants)
+J4Z80;466c;Responsables d'exploitation des transports de voyageurs et de marchandises (non cadres)
+J4Z80;477a;Techniciens de la logistique, du planning et de l'ordonnancement*
+J5Z60;546d;Hôtesses de l'air et stewards
+J5Z60;546e;Autres agents et hôtesses d'accompagnement (transports, tourisme)
+J5Z61;546c;Employés administratifs d'exploitation des transports de marchandises
+J5Z62;546b;Agents des services commerciaux des transports de voyageurs et du tourisme
+J5Z80;226b;Agents de voyage et auxiliaires de transports indépendants, de 0 à 9 salariés
+J5Z80;466a;Responsables commerciaux et administratifs des transports de voyageurs et du tourisme (non cadres)
+J5Z80;466b;Responsables commerciaux et administratifs des transports de marchandises (non cadres)
+J6Z90;389a;Ingénieurs et cadres techniques de l'exploitation des transports
+J6Z90;451d;Ingénieurs du contrôle de la navigation aérienne
+J6Z91;389b;Officiers et cadres navigants techniques et commerciaux de l'aviation civile
+J6Z92;387b;Ingénieurs et cadres de la logistique, du planning et de l'ordonnancement
+K0Z20;685a;Ouvriers non qualifiés divers de type artisanal
+K0Z40;214e;Artisans d'art
+K0Z40;214f;Autres artisans de fabrication (y.c. horlogers, matériel de précision)
+K0Z40;217d;Artisans teinturiers, blanchisseurs, de 0 à 9 salariés
+K0Z40;637b;Ouvriers d'art
+K0Z40;637d;Ouvriers qualifiés divers de type artisanal
+L0Z60;542a;Secrétaires
+L0Z60;542b;Dactylos, sténodactylos (sans secrétariat), opérateurs de traitement de texte
+L1Z60;543a;Employés des services comptables ou financiers
+L2Z60;313a;Aides familiaux non salariés de professions libérales effectuant un travail administratif*
+L2Z60;541a;Agents et hôtesses d'accueil et d'information (hors hôtellerie) **
+L2Z60;541d;Standardistes, téléphonistes**
+L2Z61;543d;Employés administratifs divers d'entreprises
+L3Z80;461a;Personnel de secrétariat de niveau supérieur, secrétaires de direction (non cadres)
+L4Z80;461e;Maîtrise et techniciens administratifs des services juridiques ou du personnel
+L4Z80;461f;Maîtrise et techniciens administratifs des autres services administratifs
+L4Z81;461d;Maîtrise et techniciens des services financiers ou comptables
+L5Z90;312c;Experts comptables, comptables agréés, libéraux
+L5Z90;312d;Conseils et experts libéraux en études économiques, organisation et recrutement, gestion et fiscalité
+L5Z90;372a;Cadres chargés d'études économiques, financières, commerciales
+L5Z90;372b;Cadres de l'organisation ou du contrôle des services administratifs et financiers
+L5Z90;373a;Cadres des services financiers ou comptables des grandes entreprises
+L5Z90;373c;Cadres des services financiers ou comptables des petites et moyennes entreprises
+L5Z90;373d;Cadres des autres services administratifs des petites et moyennes entreprises
+L5Z90;373b;Cadres des autres services administratifs des grandes entreprises
+L5Z91;372e;Juristes
+L5Z92;372c;Cadres spécialistes des ressources humaines et du recrutement
+L5Z92;372d;Cadres spécialistes de la formation
+L6Z00;232a;Chefs de moyenne entreprise, de 50 à 499 salariés
+L6Z00;233a;Chefs d'entreprise du bâtiment et des travaux publics, de 10 à 49 salariés
+L6Z00;233b;Chefs d'entreprise de l'industrie ou des transports, de 10 à 49 salariés
+L6Z00;233c;Chefs d'entreprise commerciale, de 10 à 49 salariés
+L6Z00;233d;Chefs d'entreprise de services, de 10 à 49 salariés
+L6Z90;231a;Chefs de grande entreprise de 500 salariés et plus
+L6Z90;371a;Cadres d'état-major administratifs, financiers, commerciaux des grandes entreprises
+M0Z60;544a;Employés et opérateurs d'exploitation en informatique
+M1Z80;478a;Techniciens d'étude et de développement en informatique
+M1Z81;478b;Techniciens de production, d'exploitation en informatique
+M1Z81;478c;Techniciens d'installation, de maintenance, support et services aux utilisateurs en informatique
+M1Z81;478d;Techniciens des télécommunications et de l'informatique des réseaux
+M2Z90;388a;Ingénieurs et cadres d'étude, recherche et développement en informatique
+M2Z90;388c;Chefs de projets informatiques, responsables informatiques
+M2Z91;388b;Ingénieurs et cadres d'administration, maintenance, support et services aux utilisateurs en informatique
+M2Z92;388e;Ingénieurs et cadres spécialistes des télécommunications
+N0Z90;312e;Ingénieurs conseils libéraux en études techniques
+N0Z90;383a;Ingénieurs et cadres d'étude, recherche et développement en électricité, électronique
+N0Z90;384a;Ingénieurs et cadres d'étude, recherche et développement en mécanique et travail des métaux
+N0Z90;385a;Ingénieurs et cadres d'étude, recherche et développement des industries de transformation (agroalimentaire, chimie, métallurgie, matériaux lourds)
+N0Z90;386a;Ingénieurs et cadres d'étude, recherche et développement des autres industries (imprimerie, matériaux souples, ameublement et bois, énergie, eau)
+N0Z91;342e;Chercheurs de la recherche publique
+P0Z60;522a;Agents de constatation ou de recouvrement des Impôts, du Trésor, des Douanes
+P0Z61;523a;Adjoints administratifs de la fonction publique (y.c. enseignement)
+P0Z61;524a;Agents administratifs de la fonction publique (y.c. enseignement)
+P0Z61;533c;Agents de surveillance du patrimoine et des administrations
+P0Z62;521a;Employés de la Poste
+P0Z62;521b;Employés de France Télécom (statut public)
+P1Z80;451c;Contrôleurs des Impôts, du Trésor, des Douanes et assimilés
+P1Z81;451e;Autres personnels administratifs de catégorie B de l'État (hors Enseignement, Patrimoine, Impôts, Trésor, Douanes)
+P1Z81;451f;Personnels administratifs de catégorie B des collectivités locales et des hôpitaux (hors Enseignement, Patrimoine)
+P1Z82;451a;Professions intermédiaires de la Poste
+P1Z82;451b;Professions intermédiaires administratives de France Télécom (statut public)
+P2Z90;331a;Personnels de direction de la fonction publique (État, collectivités locales, hôpitaux)
+P2Z90;332a;Ingénieurs de État (y.c. ingénieurs militaires) et assimilés
+P2Z90;332b;Ingénieurs des collectivités locales et des hôpitaux
+P2Z90;333b;Inspecteurs et autres personnels de catégorie A des Impôts, du Trésor et des Douanes
+P2Z90;333e;Autres personnels administratifs de catégorie A de État (hors Enseignement, Patrimoine, Impôts, Trésor, Douanes)
+P2Z90;333f;Personnels administratifs de catégorie A des collectivités locales et hôpitaux publics (hors Enseignement, Patrimoine)
+P2Z90;351a;Bibliothécaires, archivistes, conservateurs et autres cadres du patrimoine (fonction publique)
+P2Z91;333c;Cadres de la Poste
+P2Z91;333d;Cadres administratifs de France Télécom (statut public)
+P2Z92;334a;Officiers des Armées et de la Gendarmerie (sauf officiers généraux)
+P3Z90;312a;Avocats
+P3Z90;312b;Notaires
+P3Z90;312g;Géomètres-experts, huissiers de justice, officiers ministériels, professions libérales diverses
+P3Z91;333a;Magistrats
+P4Z60;531a;Agents de police de État
+P4Z60;531c;Surveillants de l'administration pénitentiaire
+P4Z60;532a;Gendarmes (de grade inférieur à adjudant)
+P4Z60;532b;Sergents et sous-officiers de grade équivalent des Armées (sauf pompiers militaires)
+P4Z60;532c;Hommes du rang (sauf pompiers militaires)
+P4Z60;533a;Pompiers (y.c. pompiers militaires)
+P4Z61;531b;Agents des polices municipales
+P4Z80;452a;Inspecteurs et officiers de police
+P4Z80;452b;Adjudants-chefs, adjudants et sous-officiers de rang supérieur de l'Armée et de la Gendarmerie
+Q0Z60;545a;Employés administratifs des services techniques de la banque
+Q0Z60;545b;Employés des services commerciaux de la banque
+Q0Z60;545c;Employés des services techniques des assurances
+Q0Z60;545d;Employés des services techniques des organismes de sécurité sociale et assimilés
+Q1Z80;467a;Chargés de clientèle bancaire
+Q1Z80;467b;Techniciens des opérations bancaires
+Q1Z81;467c;Professions intermédiaires techniques et commerciales des assurances
+Q1Z81;467d;Professions intermédiaires techniques des organismes de sécurité sociale
+Q2Z90;376a;Cadres des marchés financiers
+Q2Z90;376b;Cadres des opérations bancaires
+Q2Z90;376c;Cadres commerciaux de la banque
+Q2Z90;376d;Chefs d'établissements et responsables de l'exploitation bancaire
+Q2Z91;226a;Agents généraux et courtiers d'assurance indépendants, de 0 à 9 salariés
+Q2Z91;376e;Cadres des services techniques des assurances
+Q2Z91;376f;Cadres des services techniques des organismes de sécurité sociale et assimilés
+R0Z60;551a;Employés de libre service du commerce et magasiniers
+R0Z61;552a;Caissiers de magasin
+R0Z61;554j;Pompistes et gérants de station-service (salariés ou mandataires)
+R1Z60;219a;Aides familiaux non salariés ou associés d'artisans, effectuant un travail administratif ou commercial*
+R1Z60;554a;Vendeurs en alimentation
+R1Z61;554b;Vendeurs en ameublement, décor, équipement du foyer
+R1Z61;554c;Vendeurs en droguerie, bazar, quincaillerie, bricolage
+R1Z62;554d;Vendeurs du commerce de fleurs
+R1Z62;554e;Vendeurs en habillement et articles de sport
+R1Z62;554f;Vendeurs en produits de beauté, de luxe (hors biens culturels) et optique
+R1Z62;554g;Vendeurs de biens culturels (livres, disques, multimédia, objets d'art)
+R1Z63;556a;Vendeurs en gros de biens d'équipement, biens intermédiaires
+R1Z66;553a;Vendeurs non spécialisés
+R1Z66;554h;Vendeurs de tabac, presse et articles divers
+R1Z67;555a;Vendeurs par correspondance, télévendeurs
+R2Z80;225a;Intermédiaires indépendants du commerce, de 0 à 9 salariés
+R2Z80;463a;Techniciens commerciaux et technico-commerciaux, représentants en informatique
+R2Z80;463b;Techniciens commerciaux et technico-commerciaux, représentants en biens d'équipement, en biens intermédiaires, commerce interindustriel (hors informatique)
+R2Z80;463c;Techniciens commerciaux et technico-commerciaux, représentants en biens de consommation auprès d'entreprises
+R2Z80;463d;Techniciens commerciaux et technico-commerciaux, représentants en services auprès d'entreprises ou de professionnels (hors banque, assurance, informatique)
+R2Z83;463e;Techniciens commerciaux et technico-commerciaux, représentants auprès de particuliers (hors banque, assurance, informatique)
+R3Z80;222a;Petits et moyens détaillants en alimentation spécialisée, de 0 à 9 salariés
+R3Z80;222b;Petits et moyens détaillants en alimentation générale, de 0 à 9 sal.
+R3Z80;223a;Détaillants en ameublement, décor, équipement du foyer, de 0 à 9 salariés
+R3Z80;223b;Détaillants en droguerie, bazar, quincaillerie, bricolage, de 0 à 9 sal.
+R3Z80;223c;Fleuristes, de 0 à 9 salariés
+R3Z80;223d;Détaillants en habillement et articles de sport, de 0 à 9 salariés
+R3Z80;223e;Détaillants en produits de beauté, de luxe (hors biens culturels), de 0 à 9 salariés
+R3Z80;223f;Détaillants en biens culturels (livres, disques, multimédia, objets d'art), de 0 à 9 salariés
+R3Z80;223g;Détaillants en tabac, presse et articles divers, de 0 à 9 salariés
+R3Z80;223h;Exploitants et gérants libres de station-service, de 0 à 9 salariés
+R3Z80;462a;Chefs de petites surfaces de vente (salariés ou mandataires)
+R3Z80;462b;Maîtrise de l'exploitation des magasins de vente
+R3Z80;462d;Animateurs commerciaux des magasins de vente, marchandiseurs (non cadres)
+R3Z81;221a;Petits et moyens grossistes en alimentation, de 0 à 9 salariés
+R3Z81;221b;Petits et moyens grossistes en produits non alimentaires, de 0 à 9 salariés
+R3Z82;462c;Acheteurs non classés cadres, aides-acheteurs
+R3Z82;462e;Autres professions intermédiaires commerciales (sauf techniciens des forces de vente)
+R4Z90;374b;Chefs de produits, acheteurs du commerce et autres cadres de la mercatique
+R4Z90;374c;Cadres commerciaux des grandes entreprises (hors commerce de détail)
+R4Z90;374d;Cadres commerciaux des petites et moyennes entreprises (hors commerce de détail)
+R4Z91;382d;Ingénieurs et cadres technico-commerciaux en bâtiment, travaux publics
+R4Z91;383c;Ingénieurs et cadres technico-commerciaux en matériel électrique ou électronique professionnel
+R4Z91;384c;Ingénieurs et cadres technico-commerciaux en matériel mécanique professionnel
+R4Z91;385c;Ingénieurs et cadres technico-commerciaux des industries de transformations (biens intermédiaires)
+R4Z91;387a;Ingénieurs et cadres des achats et approvisionnements industriels
+R4Z91;388d;Ingénieurs et cadres technico-commerciaux en informatique et télécommunications
+R4Z92;374a;Cadres de l'exploitation des magasins de vente du commerce de détail
+R4Z93;376g;Cadres de l'immobilier
+R4Z93;226c;Agents immobiliers indépendants, de 0 à 9 salariés
+S0Z20;683a;Apprentis boulangers, bouchers, charcutiers
+S0Z20;215d;Autres artisans de l'alimentation, de 0 à 9 salariés
+S0Z40;215b;Artisans bouchers, de 0 à 9 salariés
+S0Z40;636a;Bouchers (sauf industrie de la viande)
+S0Z40;625d;Opérateurs de la transformation des viandes
+S0Z41;215c;Artisans charcutiers, de 0 à 9 salariés
+S0Z41;636b;Charcutiers (sauf industrie de la viande)
+S0Z42;215a;Artisans boulangers, pâtissiers, de 0 à 9 salariés
+S0Z42;636c;Boulangers, pâtissiers (sauf activité industrielle)
+S1Z20;561d;Aides de cuisine, apprentis de cuisine et employés polyvalents de la restauration
+S1Z40;636d;Cuisiniers et commis de cuisine
+S1Z80;488a;Maîtrise de restauration  : cuisine / production
+S2Z60;561e;Employés de l'hôtellerie : réception et hall
+S2Z60;561f;Employés d'étage et employés polyvalents de l'hôtellerie
+S2Z61;561a;Serveurs, commis de restaurant, garçons (bar, brasserie, café ou restaurant)
+S2Z80;468a;Maîtrise de restauration : salle et service
+S2Z81;468b;Maîtrise de l'hébergement : hall et étages
+S3Z00;224a;Exploitants de petit restaurant, café-restaurant, de 0 à 2 salariés
+S3Z00;224b;Exploitants de petit café, débit de boisson, associé ou non à une autre activité hors restauration, de 0 à 2 salariés
+S3Z00;224c;Exploitants de petit hôtel, hôtel-restaurant, de 0 à 2 salariés
+S3Z00;224d;Exploitants de café, restaurant, hôtel, de 3 à 9 salariés
+S3Z90;377a;Cadres de l'hôtellerie et de la restauration
+S3Z90;488b;Maîtrise de restauration  : gestion d'établissement
+T0Z60;217c;Artisans coiffeurs, manucures, esthéticiens, de 0 à 9 salariés
+T0Z60;562a;Manucures, esthéticiens (salariés)
+T0Z60;562b;Coiffeurs salariés
+T1Z60;563c;Employés de maison et personnels de ménage chez des particuliers
+T2A60;563b;Aides à domicile, aides ménagères, travailleuses familiales
+T2B60;563a;Assistantes maternelles, gardiennes d'enfants, familles d'accueil
+T3Z60;564a;Concierges, gardiens d'immeubles
+T3Z61;534a;Agents civils de sécurité et de surveillance
+T3Z61;534b;Convoyeurs de fonds, gardes du corps, enquêteurs privés et métiers assimilés (salariés)
+T4Z60;217e;Artisans des services divers, de 0 à 9 salariés *
+T4Z60;525a;Agents de service des établissements primaires
+T4Z60;525b;Agents de service des autres établissements d'enseignement
+T4Z60;525c;Agents de service de la fonction publique (sauf écoles, hôpitaux)
+T4Z60;684a;Nettoyeurs
+T4Z61;525d;Agents de service hospitaliers (de la fonction publique ou du secteur privé)
+T4Z62;628e;Ouvriers qualifiés de l'assainissement et du traitement des déchets
+T4Z62;684b;Ouvriers non qualifiés de l'assainissement et du traitement des déchets
+T6Z61;227c;Astrologues, professionnels de la parapsychologie, guérisseurs, de 0 à 9 salariés
+T6Z61;227d;Autres indépendants divers prestataires de services, de 0 à 9 salariés
+T6Z61;564b;Employés des services divers
+U0Z80;464a;Assistants de la publicité, des relations publiques (indépendants ou salariés)
+U0Z81;464b;Interprètes, traducteurs (indépendants ou salariés)
+U0Z90;375a;Cadres de la publicité
+U0Z90;375b;Cadres des relations publiques et de la communication
+U0Z91;372f;Cadres de la documentation, de l'archivage (hors fonction publique)
+U0Z91;425a;Sous-bibliothécaires, cadres intermédiaires du patrimoine
+U0Z92;352a;Journalistes (y.c. rédacteurs en chef)
+U0Z92;353a;Directeurs de journaux, administrateurs de presse, directeurs d'éditions (littéraire, musicale, audiovisuelle et multimédia)
+U1Z80;353b;Directeurs, responsables de programmation et de production de l'audiovisuel et des spectacles
+U1Z80;353c;Cadres artistiques et technico-artistiques de la réalisation de l'audiovisuel et des spectacles
+U1Z80;465b;Assistants techniques de la réalisation des spectacles vivants et audiovisuels (indépendants ou salariés)
+U1Z80;637c;Ouvriers et techniciens des spectacles vivants et audiovisuels
+U1Z81;465c;Photographes (indépendants et salariés)
+U1Z82;465a;Concepteurs et assistants techniques des arts graphiques, de la mode et de la décoration (indépendants et salariés)
+U1Z91;354b;Artistes de la musique et du chant
+U1Z91;354c;Artistes dramatiques
+U1Z91;354d;Artistes de la danse, du cirque et des spectacles divers
+U1Z91;354g;Professeurs d'art (hors établissements scolaires)
+U1Z92;352b;Auteurs littéraires, scénaristes, dialoguistes
+U1Z93;354a;Artistes plasticiens
+V0Z60;526a;Aides-soignants (de la fonction publique ou du secteur privé)
+V0Z60;526b;Assistants dentaires, médicaux et vétérinaires, aides de techniciens médicaux
+V0Z60;526c;Auxiliaires de puériculture
+V0Z60;526d;Aides médico-psychologiques
+V1Z80;431a;Cadres infirmiers et assimilés
+V1Z80;431b;Infirmiers psychiatriques
+V1Z80;431c;Puéricultrices
+V1Z80;431d;Infirmiers spécialisés (autres qu'infirmiers psychiatriques et puéricultrices)
+V1Z80;431f;Infirmiers en soins généraux, salariés
+V1Z80;431g;Infirmiers libéraux
+V1Z81;431e;Sages-femmes (libérales ou salariées)
+V2Z90;311a;Médecins libéraux spécialistes
+V2Z90;311b;Médecins libéraux généralistes
+V2Z90;344a;Médecins hospitaliers sans activité libérale
+V2Z90;344b;Médecins salariés non hospitaliers
+V2Z90;344c;Internes en médecine, odontologie et pharmacie
+V2Z91;311c;Chirurgiens dentistes (libéraux ou salariés)
+V2Z92;311e;Vétérinaires (libéraux ou salariés)
+V2Z93;311f;Pharmaciens libéraux
+V2Z93;344d;Pharmaciens salariés
+V3Z70;433a;Techniciens médicaux
+V3Z70;433d;Préparateurs en pharmacie
+V3Z71;433b;Opticiens lunetiers et audioprothésistes (indépendants et salariés)
+V3Z71;433c;Autres spécialistes de l'appareillage médical (indépendants et salariés)
+V3Z80;432a;Masseurs-kinésithérapeutes rééducateurs, libéraux
+V3Z80;432b;Masseurs-kinésithérapeutes rééducateurs, salariés
+V3Z80;432c;Autres spécialistes de la rééducation, libéraux
+V3Z80;432d;Autres spécialistes de la rééducation, salariés
+V3Z90;311d;Psychologues, psychanalystes, psychothérapeutes (non médecins)
+V4Z80;343a;Psychologues spécialistes de l'orientation scolaire et professionnelle
+V4Z83;434a;Cadres de l'intervention socio-éducative
+V4Z83;434d;Educateurs spécialisés
+V4Z83;434e;Moniteurs éducateurs
+V4Z83;434f;Educateurs techniques spécialisés, moniteurs d'atelier
+V4Z83;434g;Educateurs de jeunes enfants
+V4Z85;434b;Assistants de service social
+V4Z85;434c;Conseillers en économie sociale familiale
+V5Z00;227a;Indépendants gestionnaires de spectacle ou de service récréatif, de 0 à 9 salariés
+V5Z81;435b;Animateurs socioculturels et de loisirs
+V5Z81;435a;Directeurs de centres socioculturels et de loisirs
+V5Z82;424a;Moniteurs et éducateurs sportifs, sportifs professionnels
+V5Z84;422d;Conseillers principaux d'éducation
+V5Z84;422e;Surveillants et aides-éducateurs des établissements d'enseignement
+W0Z80;421a;Instituteurs
+W0Z80;421b;Professeurs des écoles
+W0Z90;341a;Professeurs agrégés et certifiés de l'enseignement secondaire
+W0Z90;422a;Professeurs d'enseignement général des collèges
+W0Z90;422b;Professeurs de lycée professionnel
+W0Z90;422c;Maîtres auxiliaires et professeurs contractuels de l'enseignement secondaire
+W0Z91;227b;Indépendants gestionnaires d'établissements privés (enseignement, santé, social), de 0 à 9 salariés*
+W0Z91;341b;Chefs d'établissement de l'enseignement secondaire et inspecteurs
+W0Z92;342a;Enseignants de l'enseignement supérieur
+W1Z80;423a;Moniteurs d'école de conduite
+W1Z80;423b;Formateurs et animateurs de formation continue
+X0Z00;335a;Personnes exerçant un mandat politique ou syndical
+X0Z01;441a;Clergé séculier
+X0Z01;441b;Clergé régulier

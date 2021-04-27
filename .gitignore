@@ -1,0 +1,17 @@
+*.Rproj
+*.Rproj.user\*
+*ADMIN*
+
+*RData
+*.dcf
+
+*.zip
+
+
+.Rproj.user
+*.Rhistory
+
+datas*
+documentation/fap_*
+
+credits.R

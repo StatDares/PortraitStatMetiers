@@ -1,0 +1,624 @@
+Fap3;type_sortie;Pourcentage
+A0Z;Ruptures conventionnelles;1.22
+A0Z;Licenciements            ;1.04
+A0Z;Fins de période d'essai  ;2.09
+A0Z;Fins de CDD              ;86.85
+A0Z;Départs en retraite      ;0.54
+A0Z;Démissions               ;6.86
+A0Z;Autres sorties           ;1.39
+A1Z;Ruptures conventionnelles;1.23
+A1Z;Licenciements            ;0.87
+A1Z;Fins de période d'essai  ;1.01
+A1Z;Fins de CDD              ;92.67
+A1Z;Départs en retraite      ;0.4
+A1Z;Démissions               ;3.44
+A1Z;Autres sorties           ;0.38
+A2Z;Ruptures conventionnelles;14.13
+A2Z;Licenciements            ;7.02
+A2Z;Fins de période d'essai  ;2.7
+A2Z;Fins de CDD              ;51.45
+A2Z;Départs en retraite      ;7.17
+A2Z;Démissions               ;15.91
+A2Z;Autres sorties           ;1.62
+A3Z;Ruptures conventionnelles;1.59
+A3Z;Licenciements            ;3
+A3Z;Fins de période d'essai  ;4.27
+A3Z;Fins de CDD              ;65.03
+A3Z;Départs en retraite      ;1.62
+A3Z;Démissions               ;22.5
+A3Z;Autres sorties           ;1.99
+B0Z;Ruptures conventionnelles;6.1
+B0Z;Licenciements            ;6.93
+B0Z;Fins de période d'essai  ;2.42
+B0Z;Fins de CDD              ;69.35
+B0Z;Départs en retraite      ;1.22
+B0Z;Démissions               ;11.89
+B0Z;Autres sorties           ;2.07
+B1Z;Ruptures conventionnelles;6.48
+B1Z;Licenciements            ;22.67
+B1Z;Fins de période d'essai  ;3.33
+B1Z;Fins de CDD              ;30.11
+B1Z;Départs en retraite      ;9.22
+B1Z;Démissions               ;22.66
+B1Z;Autres sorties           ;5.52
+B2Z;Ruptures conventionnelles;8.82
+B2Z;Licenciements            ;16.07
+B2Z;Fins de période d'essai  ;4.22
+B2Z;Fins de CDD              ;40.86
+B2Z;Départs en retraite      ;4.3
+B2Z;Démissions               ;23.54
+B2Z;Autres sorties           ;2.18
+B3Z;Ruptures conventionnelles;4.87
+B3Z;Licenciements            ;5.32
+B3Z;Fins de période d'essai  ;3.08
+B3Z;Fins de CDD              ;67.84
+B3Z;Départs en retraite      ;0.48
+B3Z;Démissions               ;14.45
+B3Z;Autres sorties           ;3.96
+B4Z;Ruptures conventionnelles;10.54
+B4Z;Licenciements            ;11.86
+B4Z;Fins de période d'essai  ;4.37
+B4Z;Fins de CDD              ;50.29
+B4Z;Départs en retraite      ;4.41
+B4Z;Démissions               ;15.72
+B4Z;Autres sorties           ;2.8
+B5Z;Ruptures conventionnelles;7.26
+B5Z;Licenciements            ;22.62
+B5Z;Fins de période d'essai  ;3.18
+B5Z;Fins de CDD              ;32.81
+B5Z;Départs en retraite      ;9.9
+B5Z;Démissions               ;19.31
+B5Z;Autres sorties           ;4.91
+B6Z;Ruptures conventionnelles;12.5
+B6Z;Licenciements            ;13.72
+B6Z;Fins de période d'essai  ;5.7
+B6Z;Fins de CDD              ;27.65
+B6Z;Départs en retraite      ;8.78
+B6Z;Démissions               ;27.7
+B6Z;Autres sorties           ;3.95
+B7Z;Ruptures conventionnelles;13.14
+B7Z;Licenciements            ;14.66
+B7Z;Fins de période d'essai  ;4.96
+B7Z;Fins de CDD              ;23.13
+B7Z;Départs en retraite      ;7.29
+B7Z;Démissions               ;32.17
+B7Z;Autres sorties           ;4.65
+C0Z;Ruptures conventionnelles;1.95
+C0Z;Licenciements            ;4.06
+C0Z;Fins de période d'essai  ;3.76
+C0Z;Fins de CDD              ;78.77
+C0Z;Départs en retraite      ;2.26
+C0Z;Démissions               ;6.7
+C0Z;Autres sorties           ;2.5
+C1Z;Ruptures conventionnelles;5.99
+C1Z;Licenciements            ;8.88
+C1Z;Fins de période d'essai  ;1.12
+C1Z;Fins de CDD              ;51.01
+C1Z;Départs en retraite      ;10.75
+C1Z;Démissions               ;15.39
+C1Z;Autres sorties           ;6.86
+C2Z;Ruptures conventionnelles;4.6
+C2Z;Licenciements            ;9.09
+C2Z;Fins de période d'essai  ;4.77
+C2Z;Fins de CDD              ;43.02
+C2Z;Départs en retraite      ;12.74
+C2Z;Démissions               ;21.12
+C2Z;Autres sorties           ;4.66
+D0Z;Ruptures conventionnelles;3.77
+D0Z;Licenciements            ;6.68
+D0Z;Fins de période d'essai  ;1.71
+D0Z;Fins de CDD              ;61.21
+D0Z;Départs en retraite      ;8.25
+D0Z;Démissions               ;11.68
+D0Z;Autres sorties           ;6.68
+D1Z;Ruptures conventionnelles;9.7
+D1Z;Licenciements            ;18.9
+D1Z;Fins de période d'essai  ;2.15
+D1Z;Fins de CDD              ;25.06
+D1Z;Départs en retraite      ;17.93
+D1Z;Démissions               ;17.89
+D1Z;Autres sorties           ;8.37
+D2Z;Ruptures conventionnelles;6.07
+D2Z;Licenciements            ;18.51
+D2Z;Fins de période d'essai  ;3.94
+D2Z;Fins de CDD              ;39.02
+D2Z;Départs en retraite      ;10.12
+D2Z;Démissions               ;16.24
+D2Z;Autres sorties           ;6.1
+D3Z;Ruptures conventionnelles;4.47
+D3Z;Licenciements            ;9.84
+D3Z;Fins de période d'essai  ;1.84
+D3Z;Fins de CDD              ;52.43
+D3Z;Départs en retraite      ;7.86
+D3Z;Démissions               ;15.93
+D3Z;Autres sorties           ;7.65
+D4Z;Ruptures conventionnelles;7
+D4Z;Licenciements            ;15.79
+D4Z;Fins de période d'essai  ;4.43
+D4Z;Fins de CDD              ;35.55
+D4Z;Départs en retraite      ;14.87
+D4Z;Démissions               ;18.12
+D4Z;Autres sorties           ;4.24
+D6Z;Ruptures conventionnelles;6.31
+D6Z;Licenciements            ;13.3
+D6Z;Fins de période d'essai  ;5.21
+D6Z;Fins de CDD              ;25.56
+D6Z;Départs en retraite      ;17.47
+D6Z;Démissions               ;25.88
+D6Z;Autres sorties           ;6.28
+E0Z;Ruptures conventionnelles;1.54
+E0Z;Licenciements            ;4.4
+E0Z;Fins de période d'essai  ;2.45
+E0Z;Fins de CDD              ;81.25
+E0Z;Départs en retraite      ;2.39
+E0Z;Démissions               ;5.67
+E0Z;Autres sorties           ;2.3
+E1Z;Ruptures conventionnelles;3.62
+E1Z;Licenciements            ;11.33
+E1Z;Fins de période d'essai  ;2.1
+E1Z;Fins de CDD              ;60.51
+E1Z;Départs en retraite      ;8.94
+E1Z;Démissions               ;8.8
+E1Z;Autres sorties           ;4.7
+E2Z;Ruptures conventionnelles;7.97
+E2Z;Licenciements            ;11.92
+E2Z;Fins de période d'essai  ;2.93
+E2Z;Fins de CDD              ;38.95
+E2Z;Départs en retraite      ;15.8
+E2Z;Démissions               ;16.27
+E2Z;Autres sorties           ;6.17
+Ensemble;Ruptures conventionnelles;2.31
+Ensemble;Licenciements            ;3.73
+Ensemble;Fins de période d'essai  ;2.8
+Ensemble;Fins de CDD              ;79.15
+Ensemble;Départs en retraite      ;1.8
+Ensemble;Démissions               ;8.43
+Ensemble;Autres sorties           ;1.77
+F0Z;Ruptures conventionnelles;1.63
+F0Z;Licenciements            ;6.23
+F0Z;Fins de période d'essai  ;3.72
+F0Z;Fins de CDD              ;73.78
+F0Z;Départs en retraite      ;5.04
+F0Z;Démissions               ;7.59
+F0Z;Autres sorties           ;2.01
+F1Z;Ruptures conventionnelles;3.5
+F1Z;Licenciements            ;11.34
+F1Z;Fins de période d'essai  ;2.04
+F1Z;Fins de CDD              ;55.56
+F1Z;Départs en retraite      ;13.57
+F1Z;Démissions               ;12.18
+F1Z;Autres sorties           ;1.81
+F2Z;Ruptures conventionnelles;2.79
+F2Z;Licenciements            ;12.69
+F2Z;Fins de période d'essai  ;1.52
+F2Z;Fins de CDD              ;56.66
+F2Z;Départs en retraite      ;9.59
+F2Z;Démissions               ;11.58
+F2Z;Autres sorties           ;5.16
+F3Z;Ruptures conventionnelles;6.35
+F3Z;Licenciements            ;22.26
+F3Z;Fins de période d'essai  ;0.77
+F3Z;Fins de CDD              ;36.65
+F3Z;Départs en retraite      ;8.77
+F3Z;Démissions               ;21.83
+F3Z;Autres sorties           ;3.38
+F4Z;Ruptures conventionnelles;3.65
+F4Z;Licenciements            ;7.84
+F4Z;Fins de période d'essai  ;3.01
+F4Z;Fins de CDD              ;72.68
+F4Z;Départs en retraite      ;6.16
+F4Z;Démissions               ;5.05
+F4Z;Autres sorties           ;1.61
+F5Z;Ruptures conventionnelles;13.51
+F5Z;Licenciements            ;12.68
+F5Z;Fins de période d'essai  ;1.74
+F5Z;Fins de CDD              ;35.5
+F5Z;Départs en retraite      ;13.35
+F5Z;Démissions               ;18.84
+F5Z;Autres sorties           ;4.38
+G0A;Ruptures conventionnelles;3.78
+G0A;Licenciements            ;5.87
+G0A;Fins de période d'essai  ;2.66
+G0A;Fins de CDD              ;68.44
+G0A;Départs en retraite      ;4.86
+G0A;Démissions               ;11.94
+G0A;Autres sorties           ;2.45
+G0B;Ruptures conventionnelles;7.9
+G0B;Licenciements            ;12.32
+G0B;Fins de période d'essai  ;8.89
+G0B;Fins de CDD              ;29.88
+G0B;Départs en retraite      ;5.72
+G0B;Démissions               ;30.68
+G0B;Autres sorties           ;4.62
+G1Z;Ruptures conventionnelles;5.21
+G1Z;Licenciements            ;7.51
+G1Z;Fins de période d'essai  ;3.39
+G1Z;Fins de CDD              ;57.86
+G1Z;Départs en retraite      ;8.37
+G1Z;Démissions               ;14.13
+G1Z;Autres sorties           ;3.52
+H0Z;Ruptures conventionnelles;11.26
+H0Z;Licenciements            ;15.16
+H0Z;Fins de période d'essai  ;4.86
+H0Z;Fins de CDD              ;18.56
+H0Z;Départs en retraite      ;14.75
+H0Z;Démissions               ;27.87
+H0Z;Autres sorties           ;7.55
+J0Z;Ruptures conventionnelles;2.11
+J0Z;Licenciements            ;4.72
+J0Z;Fins de période d'essai  ;3.38
+J0Z;Fins de CDD              ;81.81
+J0Z;Départs en retraite      ;1.5
+J0Z;Démissions               ;5.15
+J0Z;Autres sorties           ;1.33
+J1Z;Ruptures conventionnelles;4.85
+J1Z;Licenciements            ;11.84
+J1Z;Fins de période d'essai  ;5.48
+J1Z;Fins de CDD              ;58.86
+J1Z;Départs en retraite      ;5.54
+J1Z;Démissions               ;10.47
+J1Z;Autres sorties           ;2.96
+J3Z;Ruptures conventionnelles;3.38
+J3Z;Licenciements            ;11.21
+J3Z;Fins de période d'essai  ;6.39
+J3Z;Fins de CDD              ;51.37
+J3Z;Départs en retraite      ;4.52
+J3Z;Démissions               ;19.72
+J3Z;Autres sorties           ;3.41
+J4Z;Ruptures conventionnelles;3.88
+J4Z;Licenciements            ;10.73
+J4Z;Fins de période d'essai  ;4.47
+J4Z;Fins de CDD              ;56.56
+J4Z;Départs en retraite      ;8.4
+J4Z;Démissions               ;10.52
+J4Z;Autres sorties           ;5.43
+J5Z;Ruptures conventionnelles;1.95
+J5Z;Licenciements            ;4.09
+J5Z;Fins de période d'essai  ;2.52
+J5Z;Fins de CDD              ;80.84
+J5Z;Départs en retraite      ;0.95
+J5Z;Démissions               ;7.68
+J5Z;Autres sorties           ;1.96
+J6Z;Ruptures conventionnelles;4.19
+J6Z;Licenciements            ;8.09
+J6Z;Fins de période d'essai  ;3.99
+J6Z;Fins de CDD              ;64.71
+J6Z;Départs en retraite      ;4.75
+J6Z;Démissions               ;8.6
+J6Z;Autres sorties           ;5.65
+K0Z;Ruptures conventionnelles;3.02
+K0Z;Licenciements            ;5.23
+K0Z;Fins de période d'essai  ;6.8
+K0Z;Fins de CDD              ;68.64
+K0Z;Départs en retraite      ;1.7
+K0Z;Démissions               ;11.58
+K0Z;Autres sorties           ;3.03
+L0Z;Ruptures conventionnelles;7.5
+L0Z;Licenciements            ;7.39
+L0Z;Fins de période d'essai  ;3.27
+L0Z;Fins de CDD              ;58.03
+L0Z;Départs en retraite      ;5.74
+L0Z;Démissions               ;14.91
+L0Z;Autres sorties           ;3.15
+L1Z;Ruptures conventionnelles;8.98
+L1Z;Licenciements            ;7.88
+L1Z;Fins de période d'essai  ;7.1
+L1Z;Fins de CDD              ;49.39
+L1Z;Départs en retraite      ;5.06
+L1Z;Démissions               ;18.97
+L1Z;Autres sorties           ;2.62
+L2Z;Ruptures conventionnelles;2.64
+L2Z;Licenciements            ;3.2
+L2Z;Fins de période d'essai  ;3.36
+L2Z;Fins de CDD              ;81.11
+L2Z;Départs en retraite      ;1.48
+L2Z;Démissions               ;6.48
+L2Z;Autres sorties           ;1.72
+L3Z;Ruptures conventionnelles;14.18
+L3Z;Licenciements            ;10.38
+L3Z;Fins de période d'essai  ;5.47
+L3Z;Fins de CDD              ;38.45
+L3Z;Départs en retraite      ;10.34
+L3Z;Démissions               ;15.84
+L3Z;Autres sorties           ;5.34
+L4Z;Ruptures conventionnelles;8.06
+L4Z;Licenciements            ;9.18
+L4Z;Fins de période d'essai  ;5.87
+L4Z;Fins de CDD              ;43.41
+L4Z;Départs en retraite      ;11.51
+L4Z;Démissions               ;16.91
+L4Z;Autres sorties           ;5.06
+L5Z;Ruptures conventionnelles;12.06
+L5Z;Licenciements            ;13.67
+L5Z;Fins de période d'essai  ;5.54
+L5Z;Fins de CDD              ;24.54
+L5Z;Départs en retraite      ;11.12
+L5Z;Démissions               ;26.47
+L5Z;Autres sorties           ;6.59
+L6Z;Ruptures conventionnelles;8.47
+L6Z;Licenciements            ;15.18
+L6Z;Fins de période d'essai  ;2.39
+L6Z;Fins de CDD              ;21.58
+L6Z;Départs en retraite      ;18.46
+L6Z;Démissions               ;20.13
+L6Z;Autres sorties           ;13.79
+M0Z;Ruptures conventionnelles;5
+M0Z;Licenciements            ;10.78
+M0Z;Fins de période d'essai  ;4.99
+M0Z;Fins de CDD              ;61.47
+M0Z;Départs en retraite      ;2.9
+M0Z;Démissions               ;12.68
+M0Z;Autres sorties           ;2.18
+M1Z;Ruptures conventionnelles;8.02
+M1Z;Licenciements            ;9.69
+M1Z;Fins de période d'essai  ;7.22
+M1Z;Fins de CDD              ;36.99
+M1Z;Départs en retraite      ;4.89
+M1Z;Démissions               ;28.8
+M1Z;Autres sorties           ;4.4
+M2Z;Ruptures conventionnelles;10.11
+M2Z;Licenciements            ;10.3
+M2Z;Fins de période d'essai  ;9.87
+M2Z;Fins de CDD              ;11.86
+M2Z;Départs en retraite      ;3.62
+M2Z;Démissions               ;48.85
+M2Z;Autres sorties           ;5.38
+N0Z;Ruptures conventionnelles;5.35
+N0Z;Licenciements            ;12.29
+N0Z;Fins de période d'essai  ;7.2
+N0Z;Fins de CDD              ;28.37
+N0Z;Départs en retraite      ;7.41
+N0Z;Démissions               ;31.27
+N0Z;Autres sorties           ;8.12
+P0Z;Ruptures conventionnelles;2.36
+P0Z;Licenciements            ;5.35
+P0Z;Fins de période d'essai  ;4.88
+P0Z;Fins de CDD              ;70.82
+P0Z;Départs en retraite      ;4.89
+P0Z;Démissions               ;8.06
+P0Z;Autres sorties           ;3.64
+P1Z;Ruptures conventionnelles;13.13
+P1Z;Licenciements            ;7.71
+P1Z;Fins de période d'essai  ;2.5
+P1Z;Fins de CDD              ;51.23
+P1Z;Départs en retraite      ;4.26
+P1Z;Démissions               ;18.23
+P1Z;Autres sorties           ;2.94
+P2Z;Ruptures conventionnelles;2.34
+P2Z;Licenciements            ;4.54
+P2Z;Fins de période d'essai  ;3.53
+P2Z;Fins de CDD              ;59.45
+P2Z;Départs en retraite      ;11.62
+P2Z;Démissions               ;16.45
+P2Z;Autres sorties           ;2.07
+P3Z;Ruptures conventionnelles;4.51
+P3Z;Licenciements            ;10.34
+P3Z;Fins de période d'essai  ;8.47
+P3Z;Fins de CDD              ;24.48
+P3Z;Départs en retraite      ;1.38
+P3Z;Démissions               ;48.52
+P3Z;Autres sorties           ;2.31
+P4Z;Ruptures conventionnelles;0.92
+P4Z;Licenciements            ;6.71
+P4Z;Fins de période d'essai  ;2.96
+P4Z;Fins de CDD              ;64.55
+P4Z;Départs en retraite      ;6.67
+P4Z;Démissions               ;16.96
+P4Z;Autres sorties           ;1.23
+Q0Z;Ruptures conventionnelles;2.66
+Q0Z;Licenciements            ;4.48
+Q0Z;Fins de période d'essai  ;3.74
+Q0Z;Fins de CDD              ;68.51
+Q0Z;Départs en retraite      ;10.05
+Q0Z;Démissions               ;8.89
+Q0Z;Autres sorties           ;1.68
+Q1Z;Ruptures conventionnelles;3.53
+Q1Z;Licenciements            ;8.2
+Q1Z;Fins de période d'essai  ;4.59
+Q1Z;Fins de CDD              ;40.54
+Q1Z;Départs en retraite      ;16.5
+Q1Z;Démissions               ;21.21
+Q1Z;Autres sorties           ;5.44
+Q2Z;Ruptures conventionnelles;6.08
+Q2Z;Licenciements            ;14.01
+Q2Z;Fins de période d'essai  ;3.36
+Q2Z;Fins de CDD              ;14.01
+Q2Z;Départs en retraite      ;26.12
+Q2Z;Démissions               ;29.23
+Q2Z;Autres sorties           ;7.21
+R0Z;Ruptures conventionnelles;0.96
+R0Z;Licenciements            ;3.59
+R0Z;Fins de période d'essai  ;3.43
+R0Z;Fins de CDD              ;81.92
+R0Z;Départs en retraite      ;0.45
+R0Z;Démissions               ;8.48
+R0Z;Autres sorties           ;1.17
+R1Z;Ruptures conventionnelles;3.5
+R1Z;Licenciements            ;4.52
+R1Z;Fins de période d'essai  ;5.02
+R1Z;Fins de CDD              ;72.76
+R1Z;Départs en retraite      ;0.85
+R1Z;Démissions               ;11.87
+R1Z;Autres sorties           ;1.47
+R2Z;Ruptures conventionnelles;10.3
+R2Z;Licenciements            ;17.53
+R2Z;Fins de période d'essai  ;15.06
+R2Z;Fins de CDD              ;22.72
+R2Z;Départs en retraite      ;3.34
+R2Z;Démissions               ;26.78
+R2Z;Autres sorties           ;4.27
+R3Z;Ruptures conventionnelles;4.37
+R3Z;Licenciements            ;4.84
+R3Z;Fins de période d'essai  ;3.38
+R3Z;Fins de CDD              ;72.87
+R3Z;Départs en retraite      ;2.34
+R3Z;Démissions               ;9.54
+R3Z;Autres sorties           ;2.66
+R4Z;Ruptures conventionnelles;14.56
+R4Z;Licenciements            ;17.88
+R4Z;Fins de période d'essai  ;8.19
+R4Z;Fins de CDD              ;16.99
+R4Z;Départs en retraite      ;9.22
+R4Z;Démissions               ;27.42
+R4Z;Autres sorties           ;5.74
+S0Z;Ruptures conventionnelles;2.93
+S0Z;Licenciements            ;7.28
+S0Z;Fins de période d'essai  ;7.82
+S0Z;Fins de CDD              ;52.83
+S0Z;Départs en retraite      ;1.89
+S0Z;Démissions               ;21.06
+S0Z;Autres sorties           ;6.2
+S1Z;Ruptures conventionnelles;2.15
+S1Z;Licenciements            ;4.02
+S1Z;Fins de période d'essai  ;8.55
+S1Z;Fins de CDD              ;62.64
+S1Z;Départs en retraite      ;0.44
+S1Z;Démissions               ;19.6
+S1Z;Autres sorties           ;2.6
+S2Z;Ruptures conventionnelles;1.75
+S2Z;Licenciements            ;2.3
+S2Z;Fins de période d'essai  ;5.23
+S2Z;Fins de CDD              ;78.46
+S2Z;Départs en retraite      ;0.31
+S2Z;Démissions               ;10.63
+S2Z;Autres sorties           ;1.32
+S3Z;Ruptures conventionnelles;10.73
+S3Z;Licenciements            ;11.6
+S3Z;Fins de période d'essai  ;13.84
+S3Z;Fins de CDD              ;19.6
+S3Z;Départs en retraite      ;5.21
+S3Z;Démissions               ;33.32
+S3Z;Autres sorties           ;5.7
+T0Z;Ruptures conventionnelles;10.93
+T0Z;Licenciements            ;3.14
+T0Z;Fins de période d'essai  ;6.3
+T0Z;Fins de CDD              ;56.62
+T0Z;Départs en retraite      ;0.42
+T0Z;Démissions               ;18.01
+T0Z;Autres sorties           ;4.59
+T1Z;Ruptures conventionnelles;0.57
+T1Z;Licenciements            ;0.94
+T1Z;Fins de période d'essai  ;1.86
+T1Z;Fins de CDD              ;89.24
+T1Z;Départs en retraite      ;0.37
+T1Z;Démissions               ;5.93
+T1Z;Autres sorties           ;1.1
+T2A;Ruptures conventionnelles;1.58
+T2A;Licenciements            ;4.58
+T2A;Fins de période d'essai  ;2.74
+T2A;Fins de CDD              ;78.34
+T2A;Départs en retraite      ;1.66
+T2A;Démissions               ;9.86
+T2A;Autres sorties           ;1.24
+T2B;Ruptures conventionnelles;1.44
+T2B;Licenciements            ;3.22
+T2B;Fins de période d'essai  ;3.14
+T2B;Fins de CDD              ;68.22
+T2B;Départs en retraite      ;2.71
+T2B;Démissions               ;19.37
+T2B;Autres sorties           ;1.9
+T3Z;Ruptures conventionnelles;1.38
+T3Z;Licenciements            ;5.4
+T3Z;Fins de période d'essai  ;5.34
+T3Z;Fins de CDD              ;77.42
+T3Z;Départs en retraite      ;1.6
+T3Z;Démissions               ;5.78
+T3Z;Autres sorties           ;3.08
+T4Z;Ruptures conventionnelles;0.38
+T4Z;Licenciements            ;2.6
+T4Z;Fins de période d'essai  ;0.9
+T4Z;Fins de CDD              ;89.48
+T4Z;Départs en retraite      ;0.81
+T4Z;Démissions               ;3.49
+T4Z;Autres sorties           ;2.33
+T6Z;Ruptures conventionnelles;1.36
+T6Z;Licenciements            ;1.86
+T6Z;Fins de période d'essai  ;2.41
+T6Z;Fins de CDD              ;86.42
+T6Z;Départs en retraite      ;0.78
+T6Z;Démissions               ;5.55
+T6Z;Autres sorties           ;1.62
+U0Z;Ruptures conventionnelles;4.63
+U0Z;Licenciements            ;4.65
+U0Z;Fins de période d'essai  ;1.91
+U0Z;Fins de CDD              ;77.64
+U0Z;Départs en retraite      ;1.37
+U0Z;Démissions               ;8.12
+U0Z;Autres sorties           ;1.68
+U1Z;Ruptures conventionnelles;0.14
+U1Z;Licenciements            ;0.08
+U1Z;Fins de période d'essai  ;0.04
+U1Z;Fins de CDD              ;99.35
+U1Z;Départs en retraite      ;0.04
+U1Z;Démissions               ;0.26
+U1Z;Autres sorties           ;0.09
+V0Z;Ruptures conventionnelles;0.29
+V0Z;Licenciements            ;0.6
+V0Z;Fins de période d'essai  ;0.45
+V0Z;Fins de CDD              ;95.74
+V0Z;Départs en retraite      ;0.34
+V0Z;Démissions               ;2.16
+V0Z;Autres sorties           ;0.42
+V1Z;Ruptures conventionnelles;0.26
+V1Z;Licenciements            ;0.46
+V1Z;Fins de période d'essai  ;0.53
+V1Z;Fins de CDD              ;94.03
+V1Z;Départs en retraite      ;0.6
+V1Z;Démissions               ;3.74
+V1Z;Autres sorties           ;0.37
+V2Z;Ruptures conventionnelles;1.63
+V2Z;Licenciements            ;1.3
+V2Z;Fins de période d'essai  ;1.38
+V2Z;Fins de CDD              ;78.64
+V2Z;Départs en retraite      ;3.74
+V2Z;Démissions               ;11.15
+V2Z;Autres sorties           ;2.16
+V3Z;Ruptures conventionnelles;2.39
+V3Z;Licenciements            ;3.06
+V3Z;Fins de période d'essai  ;3.02
+V3Z;Fins de CDD              ;69.46
+V3Z;Départs en retraite      ;2.83
+V3Z;Démissions               ;16.58
+V3Z;Autres sorties           ;2.66
+V4Z;Ruptures conventionnelles;1.81
+V4Z;Licenciements            ;1.05
+V4Z;Fins de période d'essai  ;0.6
+V4Z;Fins de CDD              ;88.6
+V4Z;Départs en retraite      ;1.77
+V4Z;Démissions               ;5.41
+V4Z;Autres sorties           ;0.77
+V5Z;Ruptures conventionnelles;1.15
+V5Z;Licenciements            ;1.09
+V5Z;Fins de période d'essai  ;0.61
+V5Z;Fins de CDD              ;89.95
+V5Z;Départs en retraite      ;0.53
+V5Z;Démissions               ;6.14
+V5Z;Autres sorties           ;0.52
+W0Z;Ruptures conventionnelles;1.04
+W0Z;Licenciements            ;1.35
+W0Z;Fins de période d'essai  ;0.4
+W0Z;Fins de CDD              ;87.47
+W0Z;Départs en retraite      ;1.4
+W0Z;Démissions               ;6.51
+W0Z;Autres sorties           ;1.82
+W1Z;Ruptures conventionnelles;1.28
+W1Z;Licenciements            ;1.19
+W1Z;Fins de période d'essai  ;0.63
+W1Z;Fins de CDD              ;92.23
+W1Z;Départs en retraite      ;0.7
+W1Z;Démissions               ;3.49
+W1Z;Autres sorties           ;0.48
+X0Z;Ruptures conventionnelles;11.57
+X0Z;Licenciements            ;11.45
+X0Z;Fins de période d'essai  ;0
+X0Z;Fins de CDD              ;52.78
+X0Z;Départs en retraite      ;7.2
+X0Z;Démissions               ;14.36
+X0Z;Autres sorties           ;2.64
+ZZZ;Ruptures conventionnelles;5.89
+ZZZ;Licenciements            ;5.98
+ZZZ;Fins de période d'essai  ;3.77
+ZZZ;Fins de CDD              ;63.81
+ZZZ;Départs en retraite      ;2.17
+ZZZ;Démissions               ;16.7
+ZZZ;Autres sorties           ;1.68
