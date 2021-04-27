@@ -1,30 +1,30 @@
-# Projet ScreenJob
+La datavisualisation est disponible [ici](https://dares.travail-emploi.gouv.fr/donnees/portraits-statistiques-des-metiers).
 
-Le projet ScreenJob est un projet de datavisualisation des données de l'ouvrage Portraits Statistiques des métiers.
+# Portrait Statistique des Métiers
 
-Cette publication dresse un portrait statistique des métiers de 1982 à 2019 selon de multiples dimensions : dynamique de l'emploi, caractéristiques des personnes en emploi, qualité de l'emploi, caractéristiques des employeurs, mobilité professionnelle, marché du travail. 85 regroupements de métiers et 225 métiers détaillés, constitués à partir de la nomenclature des familles professionnelles (FAP 2009), sont ainsi décrits sous la forme de tableaux, cartes et graphiques, assortis d'un bref commentaire.
+Les infirmiers sont-ils nombreux à avoir des horaires de travail atypiques ? Le nombre de cuisiniers demandeurs d’emploi baisse-t-il ces dernières années ? Quel est le salaire moyen des caissiers ?
 
-La nomenclature des familles professionnelles (FAP) a été constituée par la Dares pour les besoins de l'analyse de l'emploi et du marché du travail par métiers. Elle opère un rapprochement entre le répertoire opérationnel des métiers et des emplois (Rome) utilisé par Pôle emploi pour classer les offres et demandes d'emploi, et les professions et catégories socioprofessionnelles (PCS) utilisées par l'Insee dans ses enquêtes.
+Le portrait statistique des métiers fournit des cartes, des graphiques, des tableaux et des commentaires pour comprendre les caractéristiques d’un métier. Pour chacun des 225 métiers, découvrez : l’évolution de l’emploi, le salaire moyen, le niveau de diplôme, la qualité de l’emploi (contrats courts ou CDI, horaires de travail atypiques, …), la structure par âge, la part des femmes, la répartition géographique, le nombre de demandeurs d’emploi, les déséquilibres entre les offres et les demandes d’emploi par région, les caractéristiques des employeurs, etc.
 
-Les données mobilisées pour dresser le portrait statistique de chaque regroupement de métiers sont issues de plusieurs sources : les enquêtes Emploi et le recensement de la population de l'Insee, la déclaration mensuelle des mouvements de main-d'oeuvre et l'enquête trimestrielle sur les mouvements de main-d'oeuvre (DMMO-EMMO) de la Dares, et les données de gestion de Pôle emploi sur les offres et les demandes d'emploi.
+Les données mobilisées pour dresser le portrait statistique de chaque regroupement de métiers sont issues de plusieurs sources : les enquêtes Emploi et le recensement de la population de l'Insee et les données de gestion de Pôle emploi sur les offres et les demandes d'emploi.
 
 Outre une présentation des sources, puis des concepts et indicateurs sur lesquels s'appuient ces portraits statistiques dans la partie documentation, ce site est constituée d'un ensemble de modules thématiques par domaine professionnel et par métier. 
 
+Pour toute remarque ou suggestion, il est possible d'utiliser le [formulaire de contact de la Dares](https://dares.travail-emploi.gouv.fr/contact)
 
-## Objectifs du projet
+## Architecture
 
-* Description : pour les nouvelles éditions des Portraits statistiques des métiers, simplifier la présentation de la publication Portraits Statistiques des Métiers qui contient de nombreuses informations et beaucoup de fiches métiers (87 FAP), pour la rendre plus ergonomique, plus parlante, plus facile d’accès aux utilisateurs
-* Livrable associé : un site internet avec un outil de recherche par mots clés en tapant un libellé de profession et qui nous renvoie vers la FAP concernée. Et des outils de datavisualisation affichant tableaux et graphiques sur les thèmes, champs et années disponibles. 
+Le repertoire a la structure d'une application [{shiny}](https://shiny.rstudio.com/).
 
+* Les données initiales sont en format csv dans le dossiers /inputs
+* les fichiers R du dossier /scripts permettent de les transformer en format rds utilisé par R.
+* le code R est ensuite organisé comme suit :
+  * les fichiers principaux (global.R, ui.R, server.R) sont à la racine /
+  * ils appellent des fonctions-outils sont rangées dans le dossiers /funs
+  * et les fichiers du dossiers /modules correspondant à chaque partie de la visualisation
+  * eux-mêmes appellent les documents en format markdown du dossier /documentation
 
-## Auteurs
-
-Alexis Eidelman, Christophe Michel, Département Dameth (ex DMQ) de la Dares et DreamRs.
-
-Contacts : Christophe Michel et Alexis Eidelman
-
-
-## Logiciel libre
+## Librairies utilisées
 
 Cette application a été réalisée avec le logiciel R (https://cran.r-project.org/) et les packages R suivant :
 
